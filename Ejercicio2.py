@@ -25,8 +25,7 @@ print("Imagen original, dType: ", imagen_gray.dtype)
 
 print("Imagen original, dimensiones: ", shape)
 print("Imagen original, tamaño total de los pixeles: ", cantidad_pixeles)
-#print("Original image: pixel min: ", imagen_gray.min())
-#print("Original image: pixel max: ", imagen_gray.max())
+
 
 
 #######################RECORTAR################################
